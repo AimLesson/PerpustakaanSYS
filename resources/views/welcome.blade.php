@@ -99,6 +99,19 @@
         </div>
     </div>
 
+    <footer class="text-gray-600 body-font mt-8 bg-white rounded-lg">
+        <div class="container px-5 py-4 mx-auto flex flex-col items-center">
+          <a class="flex title-font font-medium items-center justify-center text-gray-900">
+            <img src="logo.png" alt="Himpunan Mahasiswa Profesi Teknik Kimia" class="h-12 md:h-12 w-auto" />
+            <span class="ml-3 text-xl">Perpustakaan SYS</span>
+          </a>
+          <p class="text-sm text-gray-500 mt-4 text-center">© 2025 Perpustakaan SYS | Developed by 
+            <a href="https://www.instagram.com/gerson.m5/" class="text-gray-900 ml-1" rel="noopener noreferrer" target="_blank">@gerson.m5</a> | Open for website development projects & freelance work |
+            <a href="https://wa.me/6285156106221" target="_blank" class="text-green-500 hover:underline">Contact via WhatsApp</a>
+          </p>
+        </div>
+      </footer>
+
 
     <script src="https://cdn.jsdelivr.net/npm/flowbite@3.1.2/dist/flowbite.min.js"></script>
     <script>
